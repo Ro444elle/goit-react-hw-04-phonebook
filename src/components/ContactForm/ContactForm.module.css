@@ -1,0 +1,14 @@
+.button {
+  display: flex;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  background-color: rgb(169, 178, 178);
+  border-radius: 4px;
+
+}
+
+.button:hover {
+  background-color: darkgreen;
+  cursor: pointer;
+}

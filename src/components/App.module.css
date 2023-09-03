@@ -1,0 +1,15 @@
+.phonebook,
+.contacts {
+  width: 300px;
+  height: auto;
+  border: 2px solid grey;
+}
+
+.contacts {
+  margin-top: 5px;
+}
+
+.button:hover {
+  background-color: darkgreen;
+  cursor: pointer;
+}

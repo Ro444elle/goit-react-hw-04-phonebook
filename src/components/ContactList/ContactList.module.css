@@ -1,0 +1,11 @@
+.button {
+  margin-top: 5px;
+  background-color: rgb(169, 178, 178);
+  border-radius: 4px;
+
+}
+
+.button:hover {
+  background-color: darkgreen;
+  cursor: pointer;
+}
