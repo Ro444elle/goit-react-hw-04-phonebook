@@ -52,6 +52,10 @@ export default function ContactForm({ onSubmit }) {
   );
 }
 
+// *
+
 ContactForm.propTypes = {
   onSubmit: PropTypes.func.isRequired,
 };
+
+// *
